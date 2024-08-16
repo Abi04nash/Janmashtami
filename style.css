@@ -24,7 +24,7 @@ body {
 
 @media (max-width : 600px){
     body{
-        height: 110vh;
+        height: 100vh;
     }
 }
 
@@ -41,7 +41,7 @@ body {
 
 @media (max-width : 600px){
     .p{
-        height: 33vh;
+        height:30vh;
     }
 }
 
